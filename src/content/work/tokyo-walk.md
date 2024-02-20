@@ -1,13 +1,11 @@
 ---
-title: Tokyo street woman
-publishDate: 2019-12-01 00:00:00
+title: tokyo street woman
+publishDate: 2024-02-20
 img: /assets/cover/1.png
-img_alt: Sora Video A fashionable woman confidently walks down a Tokyo street illuminated by neon lights
 description: |
-    Sora Video A fashionable woman confidently walks down a Tokyo street illuminated by neon lights.
 tags:
     - woman
-    - Tokyo
+    - tokyo
     - street
 ---
 
