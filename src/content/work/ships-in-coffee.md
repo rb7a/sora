@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-Prompt: Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.
+Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee.

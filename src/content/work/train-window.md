@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-Prompt: Reflections in the window of a train traveling through the Tokyo suburbs.
+Reflections in the window of a train traveling through the Tokyo suburbs.

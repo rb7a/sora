@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-Prompt: A Chinese Lunar New Year celebration video with Chinese Dragon.
+A Chinese Lunar New Year celebration video with Chinese Dragon.

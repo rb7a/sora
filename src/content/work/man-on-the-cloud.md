@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-Prompt: A young man at his 20s is sitting on a piece of cloud in the sky, reading a book.
+A young man at his 20s is sitting on a piece of cloud in the sky, reading a book.

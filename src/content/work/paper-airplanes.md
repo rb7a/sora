@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-Prompt: A flock of paper airplanes flutters through a dense jungle, weaving around trees as if they were migrating birds.
+A flock of paper airplanes flutters through a dense jungle, weaving around trees as if they were migrating birds.
