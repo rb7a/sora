@@ -18,12 +18,60 @@ const { title, description } = Astro.props
 <html lang="en">
     <head>
         <MainHead title={title} description={description} />
+        <meta
+            name="description"
+            content="SoraPrompt 是由 OpenAI 开发团队推出的最新文本转视频技术。通过编译文本提示，生成视频查询摘要，提高内容分析效率。探索由 Sora 技术生成的最新视频和相关提示。"
+        />
+        <meta
+            name="keywords"
+            content="SoraPrompt, AI视频创作, 文本转视频, OpenAI, 视频内容分析, 创意视频, 视频生成技术"
+        />
+        <meta name="author" content="liuziting" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta property="og:title" content="SoraPrompt - Sora video prompt" />
+        <meta property="og:description" content="利用 SoraPrompt 的 AI 技术，将您的文本想象转化为生动的视频场景。" />
+        <meta property="og:image" content="URL_TO_YOUR_COVER_IMAGE" />
+        <meta property="og:url" content="https://www.soradesign.top/" />
+        <meta property="og:type" content="website" />
+
+        <link rel="canonical" href="https://www.soradesign.top/" />
+        <meta name="language" content="en, zh" />
+        <!-- Basic Metadata -->
+        <meta
+            name="description"
+            content="SoraPrompt is the latest text-to-video technology developed by the OpenAI team. Compile text prompts to generate video query summaries for efficient content analysis. Explore the latest videos and prompts created by Sora technology."
+        />
+        <meta
+            name="keywords"
+            content="SoraPrompt, AI video creation, text-to-video, OpenAI, video content analysis, creative videos, video generation technology"
+        />
+        <meta name="author" content="liuziting" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- Open Graph Metadata for Social Sharing -->
+        <meta property="og:title" content="SoraPrompt - AI-Powered Video Creation" />
+        <meta
+            property="og:description"
+            content="Transform your text into vivid video scenes with SoraPrompt's AI technology."
+        />
+        <meta property="og:image" content="URL_TO_YOUR_COVER_IMAGE" />
+        <meta property="og:url" content="https://www.soradesign.top/" />
+        <meta property="og:type" content="website" />
+
         <script type="text/javascript">
-            (function(c,l,a,r,i,t,y){
-                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-            })(window, document, "clarity", "script", "l4kb0b3uer");
+            ;(function (c, l, a, r, i, t, y) {
+                c[a] =
+                    c[a] ||
+                    function () {
+                        ;(c[a].q = c[a].q || []).push(arguments)
+                    }
+                t = l.createElement(r)
+                t.async = 1
+                t.src = 'https://www.clarity.ms/tag/' + i
+                y = l.getElementsByTagName(r)[0]
+                y.parentNode.insertBefore(t, y)
+            })(window, document, 'clarity', 'script', 'l4kb0b3uer')
         </script>
     </head>
     <body>
