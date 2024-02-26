@@ -13,4 +13,4 @@ tags:
 
 ## Prompt
 
-a photorealistic video of a butterfly that can swim navigating underwater through a beautiful coral reef.
+a giant cathedral is completely filled with cats. there are cats everywhere you look. a man enters the cathedral and bows before the giant cat king sitting on a throne.
